@@ -69,4 +69,5 @@ dev/bower_components
 dev/.sass-cache
 dev/build
 *.js.map
-
+node_modules
+bower_components
